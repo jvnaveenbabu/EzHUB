@@ -1,0 +1,85 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  width: 100%;
+  position: fixed;
+  display: flex;
+  justify-content: flex-start;
+  background-color: #131720;
+  padding: 20px 0px;
+  box-shadow: 0px 1px 5px #000;
+  color: #fff;
+  z-index: 100;
+  cursor: pointer;
+  font-family: "Poppins", sans-serif;
+}
+
+.git-logo {
+  margin-left: 1380px !important;
+  font-size: 26px;
+}
+
+/* @media (max-width: 720px) {
+  .git-logo {
+    margin-left: 20.7em !important;
+  }
+} */
+
+@media (max-width: 570px) {
+  .git-logo {
+    margin-left: 8.1em !important;
+    font-size: 26px;
+  }
+}
+
+@media (max-width: 320px) {
+  .git-logo {
+    margin-left: 6.5em !important;
+    font-size: 26px;
+  }
+}
+
+@media (min-width: 280px) and (max-width: 320px) {
+  .git-logo {
+    margin-left: 5.5em !important;
+    font-size: 26px;
+  }
+}
+
+@media (min-width: 670px) and (max-width: 800px) {
+  .git-logo {
+    margin-left: 23.5em !important;
+    font-size: 26px;
+  }
+}
+
+/*
+@media (max-width: 1024px) {
+  .git-logo {
+    margin-left: 24em !important;
+  }
+}
+
+@media (max-width: 1366px) {
+  .git-logo {
+    margin-left: 33.5em !important;
+  }
+}
+
+@media (max-width: 720px) {
+  .git-logo {
+    margin-left: 15.3em !important;
+  }
+}
+
+@media (min-width: 280px) and (max-width: 653px) {
+  .git-logo {
+    margin-left: 5.5em !important;
+  }
+} */
