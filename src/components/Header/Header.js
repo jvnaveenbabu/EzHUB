@@ -12,7 +12,7 @@ const Header = () => {
           Ez<span style={{ color: "#2f80ed" }}>HUB</span>
         </h3>
         <a
-          href="https://github.com/jvnaveenbabu/KIWU-Fashions"
+          href="https://github.com/jvnaveenbabu/EzHUB"
           target="_blank"
           style={{ color: "#fff" }}
         >

@@ -3,8 +3,6 @@ import axios from "axios";
 import SingleContent from "../../components/SingleContent/SingleContent";
 import CustomPagination from "../../components/Pagination/CustomPagination";
 import Genres from "../../components/Genres/Genres";
-
-import genreforURL from "../../hooks/useGenre";
 import useGenre from "../../hooks/useGenre";
 
 const Movies = () => {

@@ -92,7 +92,7 @@ const Search = () => {
           aria-label="disabled tabs example"
         >
           <Tab style={{ width: "50%" }} label="Search Movies" />
-          <Tab style={{ width: "50%" }} label="Search TV Series" />
+          <Tab style={{ width: "50%" }} label="Search Series" />
         </Tabs>
       </ThemeProvider>
       <div className="trending">

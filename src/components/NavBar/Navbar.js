@@ -58,7 +58,7 @@ export default function Navbar() {
       />
       <BottomNavigationAction
         style={{ color: "#fff" }}
-        label="TV Series"
+        label="Series"
         className="btn"
         icon={<LiveTvIcon />}
       />
